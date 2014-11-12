@@ -1,0 +1,29 @@
+{
+  "name": "tothApp",
+  "version": "1",
+  "authors": [
+    "Tony and Beth"
+  ],
+  "description": "gets you from point a to point b",
+  "main": "index.html",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "imdb"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "backbone": "~1.1.2",
+    "underscore": "~1.7.0",
+    "jquery": "~2.1.1"
+  }
+}
